@@ -1,0 +1,28 @@
+email: 'alessandro@kubespaces.io'
+phone: '+31 643197789'
+businessName: 'Lovelace Engineering B.V.'
+address: |
+  Erich Salomonstraat 20
+  1087AW Amsterdam, The Netherlands
+hours:
+  - day: Monday
+    open: 8:30am
+    close: 5:00pm
+  - day: Tuesday
+    open: 8:30am
+    close: 5:00pm
+  - day: Wednesday
+    open: 8:30am
+    close: 5:00pm
+  - day: Thursday
+    open: 8:30am
+    close: 5:00pm
+  - day: Friday
+    open: 8:30am
+    close: 5:00pm
+  - day: Saturday
+    open: Closed
+    close:
+  - day: Sunday
+    open: Closed
+    close:

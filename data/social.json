@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Github",
+        "link": "https://github.com/kubespaces-io/",
+        "image": "social/github.svg"
+    },
+    {
+        "name": "Twitter",
+        "link": "https://twitter.com/kubespaces",
+        "image": "social/twitter.svg"
+    }
+]
