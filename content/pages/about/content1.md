@@ -2,7 +2,7 @@
 title: 'Developer experience'
 date: 2018-12-06T09:29:16+10:00
 weight: 1
-background: ''
+background: 'images/snow2.jpeg'
 align: right
 ---
 
