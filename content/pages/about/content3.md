@@ -8,4 +8,4 @@ button: 'Contact Us'
 buttonLink: 'contact'
 ---
 
-Theres no limits, Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur.
+We want to simplify the developer experience of adopting cloud native technologies by providing a seamless, turn-key solution that allows developers to focus on their code and not the infrastructure. We believe that the future of cloud native is serverless and we want to help you get there.
